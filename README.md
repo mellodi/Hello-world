@@ -1,6 +1,6 @@
 # Panel Classification
 
-## Directory tree
+## Directory tree (src)
 - config
   - BENCHMARK_CONFIG.json
   - FNOL_CONFIG.json
